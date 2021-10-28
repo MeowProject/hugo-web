@@ -1,43 +1,39 @@
-############################### team ############################
+---
 team:
-  enable : true
-  title : Our Team
-  team_member :
-    # team member loop
-    - name : Alfandi Putra
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Alfandi Putra is a founder of meow code with over 8 years using computers and other.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://facebook.com/alfandiputra0/"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/CrashKeyboard"
-        
-    # team member loop
-    - name : Jumaldi Kurnia
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
-      content : Hello, I'm Jumaldi, a blogger, internet marketing, and SEO enthusiast. I also like coding and design.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://facebook.com/suke.dasuke"
-        
-    # team member loop
-    - name : ゆうと
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : JP/EN Translator
-      content : Lives in Osaka. Active as a Web Developer and Translator. I like Hatsune Miku and tuyu.
-      social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/yuuto02695530"
-        
-    # team member loop
-    - name : Cats :3
-      image_webp : images/team/team-5.webp
-      image : images/team/team-5.jpg
-      designation : Supporter
-      content : meow.
+  enable: true
+  title: Our Team
+  team_member:
+  - name: Alfandi Putra
+    image_webp: images/team/team-1.webp
+    image: images/team/team-1.jpg
+    designation: CEO/Founder
+    content: Alfandi Putra is a founder of meow code with over 8 years using computers
+      and other.
+    social:
+    - icon: ti-facebook
+      link: https://facebook.com/alfandiputra0/
+    - icon: ti-twitter-alt
+      link: https://twitter.com/CrashKeyboard
+  - name: Jumaldi Kurnia Rizki
+    image_webp: images/team/team-2.webp
+    image: images/team/team-2.jpg
+    designation: Manager
+    content: Hello, I'm Jumaldi, a blogger, internet marketing, and SEO enthusiast.
+      I also like coding and design.
+    social:
+    - icon: ti-facebook
+      link: https://facebook.com/suke.dasuke
+  - name: ゆうと
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: JP/EN Translator
+    content: Lives in Osaka. Active as a Web Developer and Translator. I like Hatsune
+      Miku and tuyu.
+    social:
+    - icon: ti-twitter-alt
+      link: https://twitter.com/yuuto02695530
+  - name: Cats :3
+    image_webp: images/team/team-5.webp
+    image: images/team/team-5.jpg
+    designation: Supporter
+    content: meow.
