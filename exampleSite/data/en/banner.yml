@@ -1,12 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Did You Hear That?"
-  content : "Welcome to meow code website, we learn programming , linux , and other. We also love cats!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Did You Hear That?
+  content: Welcome to Meow Code, We learn programming , Linux , and other. We also
+    love cats!
   button:
-    enable : true
-    label : "Explore"
-    link : "#blog"
+    enable: true
+    label: Explore
+    link: "#blog"
