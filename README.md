@@ -130,3 +130,4 @@ We are available for **Hiring** for your next HUGO project. Please, check our
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)** | **Reader** | **Bizcraft** |
+# hugo-web
