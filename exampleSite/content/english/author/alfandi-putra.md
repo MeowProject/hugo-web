@@ -6,4 +6,4 @@ social = []
 title = "Alfandi Putra"
 
 +++
-alfandi putra
+alfandi-putra
