@@ -37,7 +37,9 @@ team:
     image: ''
     designation: Developer
     content: is Victim_Crasher
-    social: ''
+    social:
+    - icon: ti-facebook
+      link: https://facebook.com/victim.crasher
   - name: Cats :3
     image_webp: images/team/team-5.webp
     image: images/team/team-5.jpg
