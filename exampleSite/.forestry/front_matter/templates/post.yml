@@ -24,4 +24,3 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/english/blog/how-to-setup-hugo.md
-- exampleSite/content/english/blog/hugo.md
