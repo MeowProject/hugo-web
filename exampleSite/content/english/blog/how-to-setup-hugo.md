@@ -21,7 +21,7 @@ $hugo new site meowcode ( You can replace meowcode with your project name)
 
 ### STEP-3 : Install the theme
 
-You can search theme in \[here\]([https://hugothemesfree.com/](https://hugothemesfree.com/ "https://hugothemesfree.com/"))
+You can search theme in [here](https://hugothemesfree.com/)
 
 Also You can make your theme too!
 
@@ -45,7 +45,7 @@ When building the website, you can set a theme by using `--theme` option. Howeve
 
 `hugo new blog/post-name.md`
 
-Also You can use [https://forestry.io/](https://forestry.io/ "forestry")
+Also You can use [forestry](https://forestry.io/)
 
 ### STEP-7 : Build the website
 
