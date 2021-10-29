@@ -12,6 +12,7 @@ title = "HUGOの設定方法"
 ### 1：Hugoのインストール
 
 以下のリンクをチェックして、あなたのコンピュータにHugoをインストールしてください。
+[HUGO](https://gohugo.io/getting-started/installing/)
 
 ### 2：あなたのプロジェクトを作成します
 
@@ -21,7 +22,7 @@ $ hugo new site meowcode （あなたはあなたのプロジェクト名にMeow
 
 ### 3：テーマをインストールします
 
-ここでテーマを検索できます
+ここでテーマを検索できます [THEME](https://hugothemesfree.com/)
 
 そしてあなたもテーマを作ることができます！
 
@@ -47,7 +48,7 @@ Webサイトを構築するには、--themeオプションを使用してテー�
 
 hugo new blog/新しい投稿.md
 
-また、あなたは使用することができます FORESTRY
+また、あなたは使用することができます [FORESTRY](https://forestry.io/)
 
 ### 7：ウェブサイトを構築します
 
