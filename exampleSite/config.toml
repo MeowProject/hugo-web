@@ -29,6 +29,8 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
+[[listeLangues]]
+   code = "en"
 [params]
 author = "Meow"
 description = "Meow Code Blog Website"
