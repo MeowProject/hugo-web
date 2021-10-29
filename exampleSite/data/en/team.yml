@@ -40,11 +40,11 @@ team:
     social:
     - icon: ti-facebook
       link: https://facebook.com/victim.crasher
-  - name: ''
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
+  - name: Wahyu Firmansyah Nugroho
+    image_webp: images/team/team-7.webp
+    image: images/team/team-7.jpg
+    designation: Facebook Moderator
+    content: ワハユFNです
     social:
     - icon: ti-facebook
       link: https://facebook.com/wahyu.ghelava/
