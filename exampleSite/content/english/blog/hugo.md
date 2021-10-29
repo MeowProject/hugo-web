@@ -2,7 +2,6 @@
 author = "ゆうと"
 date = 2021-10-29T09:03:00Z
 description = "MeowCodeによるHugoを設定する方法！"
-draft = true
 image = "/images/group-2.png"
 image_webp = "/images/group-2.webp"
 title = "HUGOの設定方法"
@@ -44,4 +43,20 @@ Webサイトを構築するには、--themeオプションを使用してテー�
 
 ![](https://cdn.discordapp.com/attachments/689337226123149336/903504952679354478/unknown.png)
 
-### 6：
+### 6：最初のコンテンツページを作成します
+
+hugo new blog/新しい投稿.md
+
+また、あなたは使用することができます FORESTRY
+
+### 7：ウェブサイトを構築します
+
+サイトの展開準備ができたら、次のコマンドを実行します。
+
+hugo
+
+### このコマンドを使用して、ミニフィールドバージョンを作成することもできます。
+
+hugo–minify
+
+あなたのWebサイトのすべての静的コンテンツとアセットを含むパブリックフォルダが生成されます。これで任意のWebサーバーにデプロイできます。
