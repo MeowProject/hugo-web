@@ -33,8 +33,8 @@ team:
     - icon: ti-twitter-alt
       link: https://twitter.com/yuuto02695530
   - name: Achmad Firdaus Adinegoro
-    image_webp: ''
-    image: ''
+    image_webp: images/team/team-6.webp
+    image: images/team/team-6.jpg
     designation: Developer
     content: is Victim_Crasher
     social:
