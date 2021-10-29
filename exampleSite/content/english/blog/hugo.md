@@ -4,7 +4,7 @@ date = 2021-10-29T09:03:00Z
 description = "MeowCodeによるHugoを設定する方法！"
 image = "/images/group-2.png"
 image_webp = "/images/group-2.webp"
-title = "HUGOの設定方法"
+title = "How To Setup Hugo [JP]"
 
 +++
 ## これらの簡単な手順に従ってHUGOをインストールします。
