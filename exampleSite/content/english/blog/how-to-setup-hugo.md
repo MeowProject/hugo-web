@@ -21,7 +21,7 @@ $hugo new site meowcode ( You can replace meowcode with your project name)
 
 ### STEP-3 : Install the theme
 
-You can search theme in [https://hugothemesfree.com/](https://hugothemesfree.com/ "here")
+You can search theme in \[here\]([https://hugothemesfree.com/](https://hugothemesfree.com/ "https://hugothemesfree.com/"))
 
 Also You can make your theme too!
 
