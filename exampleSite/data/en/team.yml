@@ -40,6 +40,14 @@ team:
     social:
     - icon: ti-facebook
       link: https://facebook.com/victim.crasher
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: https://facebook.com/wahyu.ghelava/
   - name: Cats :3
     image_webp: images/team/team-5.webp
     image: images/team/team-5.jpg
