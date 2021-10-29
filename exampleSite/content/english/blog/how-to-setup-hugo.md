@@ -1,5 +1,5 @@
 +++
-author = "ゆうと"
+author = "yuuto"
 date = 2021-10-28T16:00:00Z
 description = "Tutorials how to setup hugo by meowcode!"
 image = "/images/howtosetuphugo.png"
