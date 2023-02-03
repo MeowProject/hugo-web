@@ -1,4 +1,4 @@
-baseURL = "https://meowcode.pw"
+baseURL = "https://meowcodeid.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
