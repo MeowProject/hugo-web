@@ -7,14 +7,10 @@ funfacts:
     # counter item loop
     - title : "Pending Projects"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "2"
+      count : "1"
     
     # counter item loop
     - title : "Projects completed"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "12"
+      count : "5"
     
-    # counter item loop
-    - title : "Cups of Coffee"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "173"

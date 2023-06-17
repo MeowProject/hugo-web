@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "hugo-web"
 themesDir = "../.."
 title = "MeowCode"
 [Languages.en]
@@ -14,7 +14,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "community"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]

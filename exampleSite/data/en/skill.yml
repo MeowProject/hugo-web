@@ -4,11 +4,11 @@ skill:
   title : Our Skills
   subtitle : We’ve skilled in wide range of web and Other digital market tools.
   content : 
-  image : images/about/company-growth.webp
+  image : images/about/app.png
   skill_item :
     # skill item loop
-    - name :  Programming
-      percent : 90%
+    - name :  Web Development
+      percent : 80%
       
     # skill item loop
     - name :  Linux

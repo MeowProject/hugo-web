@@ -5,9 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Did You Hear That?
-  content: Welcome to Meow Code, We learn programming , Linux , and other. We also
+  content: Welcome to Meow Code! We learn programming , Linux , and other. We also
     love cats!
   button:
     enable: true
     label: Explore
-    link: "#blog"
+    link: "#about"
