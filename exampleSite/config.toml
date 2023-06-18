@@ -14,19 +14,23 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "community"
+name = "Community"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "team"
+name = "Our Project"
+url = "#portfolio"
+weight = 1
+[[Languages.en.menu.main]]
+name = "Team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 [[listeLangues]]

@@ -5,72 +5,42 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Nanahira
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/Nanahira.jpg
+      image_webp : images/portfolio/Nanahira.webp
+      categories : ["discord"]
+      content : A Secure And Simple Discord Music Bot
+      link : "https://nanahira.netlify.app/"
+
+     # portfolio item loop
+    - name : Nanahira Website
+      image : images/portfolio/nanahiraweb.jpg
+      image_webp : images/portfolio/nanahiraweb.webp
       categories : ["website"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      content : Website For Nanahira
+      link : "https://nanahira.netlify.app/"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
+    - name : Meowproject
+      image : images/portfolio/meowproject.jpg
+      image_webp : images/portfolio/meowproject.webp
       categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      content : Be Quiet, Be Faster And Be Hypebeast. 
+      link : "https://www.instagram.com/meowproject.id/"
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Proteksi
+      image : images/portfolio/proteksi.jpg
+      image_webp : images/portfolio/proteksi.webp
+      categories : ["website"]
+      content : Website DPSH
+      link : "https://www.proteksiuuite.site"
+      
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Tech Antusias
+      image : images/portfolio/techantusias.png
+      image_webp : images/portfolio/techantusias.webp
+      categories : ["discord"]
+      content : A Tech Discord Community
+      link : "https://discord.gg/kCjpwRt8Yz"
       
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
