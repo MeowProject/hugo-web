@@ -14,10 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Home"
-url = "#banner"
-weight = 1
-[[Languages.en.menu.main]]
 name = "Community"
 url = "#about"
 weight = 1
