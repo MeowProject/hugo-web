@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "MeowCode"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright ; 2021 Developed by [Meowcode](https://meowcode.pw)"
+copyright = "Copyright ; 2023 Developed by [Meowcode](https://meowcodeid.netlify.app/)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
